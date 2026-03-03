@@ -1,4 +1,4 @@
-# IDE (updated)
+# Online IDE  - Code Editor
 
 A lightweight and minimalistic html, css, and javascript editor and compiler built using nextjs, tailwindcss and shadcn-ui.
 
