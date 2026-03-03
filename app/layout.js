@@ -5,7 +5,7 @@ import { Toaster } from 'sonner';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "IDE",
+  title: "Online IDE - Code Editor by MUKESH",
   description: "Online html, css, and javascript editor and compiler.",
   icons: {
     icon: "/logo.png"
